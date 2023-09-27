@@ -38,5 +38,4 @@ Python (3.0 recommended)
 Pygame library
 
 <img width="482" alt="end_photo" src="https://github.com/varaprasadK4/flappy_bird/assets/128315773/fd1a8ca9-5276-44d0-bb16-d9c433cf4f0a">
-
 <img width="300" height="300" alt="1" src="https://github.com/varaprasadK4/flappy_bird/assets/128315773/240789e0-54ce-45a4-88db-bb5d5615c5f3">
